@@ -3,6 +3,8 @@ Hi i'm Ono, Mini junior programmer
 <p align="center">
   <a href="https://discord.com/users/373731784711471104">
     <img src="https://skillicons.dev/icons?i=discord" />
+   <a href="https://www.instagram.com/onosannnnt/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
 
