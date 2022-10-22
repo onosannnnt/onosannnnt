@@ -1,4 +1,24 @@
 # Welcome to my profile👋
+Hi i'm Ono, Mini junior programmer
+<p align="center">
+  <a href="https://discord.com/users/373731784711471104">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **Oceannnx/Oceannnx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
