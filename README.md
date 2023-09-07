@@ -1,5 +1,4 @@
 # Welcome to my profile👋
-#### Hi i'm Ono, Mini junior programmer
 ## Contact
 <p align="center">
   <a href="https://discord.com/users/373731784711471104">
