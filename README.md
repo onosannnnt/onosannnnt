@@ -1,7 +1,6 @@
 <h1>Hi 👋, I'm Ono, Santijit Kamnak</h1>
 <h3>A passionate Full-stack developer from ACS, KMUTT</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oceannnx&label=Profile%20views&color=0e75b6&style=flat" alt="oceannnx" /> </p>
 
 - 🔭 I’m currently working on [Insightful-AQI-Forecast](https://github.com/Oceannnx/Insightful-AQI-Forecast)
 
