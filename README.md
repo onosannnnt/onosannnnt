@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ono, Santijit Kamnak</h1>
-<h3 align="center">A passionate Full-stack developer from ACS, KMUTT</h3>
+<h3>A passionate Full-stack developer from ACS, KMUTT</h3>
 
 - 🔭 I’m currently working on [Insightful-AQI-Forecast](https://github.com/Oceannnx/Insightful-AQI-Forecast)
 
