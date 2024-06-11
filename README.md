@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Ono, Santijit Kamnak</h1>
 <h3>A passionate Full-stack developer from ACS, KMUTT</h3>
 
-- 🔭 I’m currently working on [Learniverse Front-end](https://github.com/naphatchanun/Learniverse-Project) and [Learniverse Back-end](https://github.com/Oceannnx/Learniverse-backend)
+- 🔭 I’m currently working on ...
 
 - 🌱 I’m currently learning **Svelte and SvelteKit**
 
