@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Ono, Santijit Kamnak</h1>
 <h3>A passionate Full-stack developer from ACS, KMUTT</h3>
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on [WEB-Klongyaa-senior]([https://github.com/onosannnnt/WEB-Klongyaa-seniorProject])) and [Klongyaa-server](https://github.com/onosannnnt/Klongyaa-server)
 
 - 🌱 I’m currently learning **Svelte and SvelteKit**
 
