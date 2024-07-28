@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋 I'm Ono, Santijit Kamnak</h1>
 <h3>A passionate Full-stack developer from ACS, KMUTT</h3>
 
-- 🔭 I’m currently working on [Pillbox Front-end](https://github.com/onosannnnt/Pillbox-FE)
+- 🔭 I’m currently working on [Pillbox Front-end](https://github.com/onosannnnt/Pillbox-FE) and [Pillbox Back-end](https://github.com/onosannnnt/Pillbox-BE) 
 
 - 🌱 I’m currently learning **Svelte and SvelteKit**
 
