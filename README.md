@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Pillbox Front-end](https://github.com/onosannnnt/Pillbox-FE) and [Pillbox Back-end](https://github.com/onosannnnt/Pillbox-BE) 
 
-- 🌱 I’m currently learning **Svelte and SvelteKit**
+- 🌱 I’m currently learning **React and Golang**
 
 - 📫 How to reach me **onopingping@gmail.com**
 
