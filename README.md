@@ -1,11 +1,11 @@
 <h1 align="left">Hi 👋 I'm Ono, Santijit Kamnak</h1>
 <h3>A passionate Full-stack developer from ACS, KMUTT</h3>
 
-- 🔭 I’m currently working on [Pillbox Front-end](https://github.com/onosannnnt/Pillbox-FE) and [Pillbox Back-end](https://github.com/onosannnnt/Pillbox-BE) 
+- 🔭 I’m currently working on Final ACS Project
 
-- 🌱 I’m currently learning **React and Golang**
+- 🌱 I’m currently learning **C# and Unity**
 
-- 📫 How to reach me **contact@santijit.dev**
+- 📫 How to reach me **santijit.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
