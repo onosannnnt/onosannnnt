@@ -1,9 +1,7 @@
 <h1 align="left">Hi 👋 I'm Ono, Santijit Kamnak</h1>
 <h3>A passionate Full-stack developer from ACS, KMUTT</h3>
 
-- 🔭 I’m currently working on Final ACS Project
-
-- 🌱 I’m currently learning **C# and Unity**
+- 🌱 I’m currently learning **ASP.net# and Springboot**
 
 - 📫 How to reach me **santijit.work@gmail.com**
 
